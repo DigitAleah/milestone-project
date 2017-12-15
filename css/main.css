@@ -1,0 +1,36 @@
+header {
+    height:300px;
+    background: url("../img/hero-cropped.png");
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+}
+
+h2 {
+  font-family: 'Audiowide';
+  color: #e8dbc3;
+  font-size: 48px;
+  text-shadow: 2px 2px grey;
+  text-align: center;
+
+}
+h3{
+  font-family: 'Audiowide';
+  color: #77716d;
+}
+p{
+  color: #77716d;
+}
+.about{
+  background-color: #e8dbc3;
+
+}
+.services{
+  background-color: #8c2110;
+}
+.reviews{
+  background-color: #e8dbc3;
+}
+.contact{
+  background-color: #8c2110;
+}
